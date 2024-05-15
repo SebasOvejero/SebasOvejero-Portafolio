@@ -248,7 +248,7 @@
 
 
 const dynamicText = document.querySelector("h2 span");
-const words = ["Front-End Developer", "WordPress Developer"];
+const words = ["Front-End Developer", "Business Analyst"];
 // Variables to track the position and deletion status of the word
 let wordIndex = 0;
 let charIndex = 0;
